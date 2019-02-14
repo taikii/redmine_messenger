@@ -2,22 +2,22 @@
 ja:
   default_mentionsl_info: Default people to notify, comma separated (e.g. @all, @here)
   error_messenger_invalid_url: is not a valid URL
-  label_messenger_contact_created: "[%{project_url}] コンタクト %{url} が *%{user}* によって作成されました。"
-  label_messenger_contact_updated: "[%{project_url}] コンタクト %{url} が*%{user}* によって更新されました。"
-  label_messenger_db_entry_created: "[%{project_url}] DB entry %{url} created by *%{user}*"
-  label_messenger_db_entry_updated: "[%{project_url}] DB entry %{url} updated by *%{user}*"
+  label_messenger_contact_created: "%{url} が *%{user}* によって作成されました。"
+  label_messenger_contact_updated: "%{url} が *%{user}* によって更新されました。"
+  label_messenger_db_entry_created: "%{url} が *%{user}* によって作成されました。"
+  label_messenger_db_entry_updated: "%{url} が *%{user}* によって更新されました。"
   label_messenger_default_not_visible: デフォルトの設定はセキュリティ上の理由により表示されません。
-  label_messenger_issue_created: "[%{project_url}] チケット %{url} が *%{user}* によって作成されました。"
-  label_messenger_issue_updated: "[%{project_url}] チケット %{url} が *%{user}* によって更新されました。"
-  label_messenger_password_created: "[%{project_url}] Kennwort %{url} created by *%{user}*"
-  label_messenger_password_updated: "[%{project_url}] Kennwort %{url} updated by *%{user}*"
+  label_messenger_issue_created: "%{url} が *%{user}* によって作成されました。"
+  label_messenger_issue_updated: "%{url} が *%{user}* によって更新されました。"
+  label_messenger_password_created: "%{url} が *%{user}* によって作成されました。"
+  label_messenger_password_updated: "%{url} が *%{user}* によって更新されました。"
   label_messenger_project_text_field_info: デフォルトの設定を使う場合空欄にしてください。
   label_messenger_setting: メッセンジャーの設定
   label_messenger_settings_default: デフォルト
   label_messenger_settings_disabled: 無効
   label_messenger_settings_enabled: 有効
-  label_messenger_wiki_created: "[%{project_url}] Wiki %{url} が by *%{user}* によって作成されました。"
-  label_messenger_wiki_updated: "[%{project_url}] Wiki %{url} が *%{user}* によって更新されました。"
+  label_messenger_wiki_created: "%{url} が *%{user}* によって作成されました。"
+  label_messenger_wiki_updated: "%{url} が *%{user}* によって更新されました。"
   label_messenger: メッセンジャー
   label_settings_auto_mentions: ユーザー名をその人についての投稿(@ユーザー名)に変換する
   label_settings_default_mentions: Default people for mentions
